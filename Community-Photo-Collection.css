@@ -3,7 +3,7 @@
 }
 
 .u-section-1 .u-sheet-1 {
-  min-height: 3119px;
+  min-height: 6182px;
 }
 
 .u-section-1 .u-image-1 {
@@ -37,7 +37,32 @@
 }
 
 .u-section-1 .u-text-7 {
-  margin: -420px auto 60px 131px;
+  margin: -420px auto 0 131px;
+}
+
+.u-section-1 .u-custom-html-1 {
+  height: auto;
+  min-height: 2507px;
+  width: 1009px;
+  margin: 131px auto 60px;
+}
+
+.u-section-1 .u-custom-html-2 {
+  margin-top: 127px;
+  margin-bottom: 60px;
+  height: auto;
+  min-height: 2007px;
+}
+
+.u-section-1 .u-custom-html-3 {
+  margin: 30px 0 60px 39px;
+}
+
+.u-section-1 .u-custom-html-4 {
+  margin-top: 93px;
+  margin-bottom: 60px;
+  height: auto;
+  min-height: 2507px;
 }
 
 @media (max-width: 1199px) {
@@ -78,13 +103,16 @@
     margin-top: -409px;
     margin-left: 31px;
   }
+
+  .u-section-1 .u-custom-html-1 {
+    margin-top: 86px;
+    margin-right: 31px;
+    margin-left: -31px;
+    width: 940px;
+  }
 }
 
 @media (max-width: 991px) {
-  .u-section-1 .u-sheet-1 {
-    min-height: 3089px;
-  }
-
   .u-section-1 .u-image-1 {
     width: 720px;
     height: 238px;
@@ -124,13 +152,15 @@
     margin-top: -420px;
     margin-left: 0;
   }
+
+  .u-section-1 .u-custom-html-1 {
+    width: 720px;
+    margin-left: auto;
+    margin-right: auto;
+  }
 }
 
 @media (max-width: 767px) {
-  .u-section-1 .u-sheet-1 {
-    min-height: 3030px;
-  }
-
   .u-section-1 .u-image-1 {
     width: 540px;
     height: 179px;
@@ -173,13 +203,19 @@
   .u-section-1 .u-text-7 {
     margin-left: 39px;
   }
+
+  .u-section-1 .u-custom-html-1 {
+    width: 540px;
+  }
+
+  .u-section-1 .u-custom-html-3 {
+    height: auto;
+    min-height: 2507px;
+    margin: 100px -16px 50px 55px;
+  }
 }
 
 @media (max-width: 575px) {
-  .u-section-1 .u-sheet-1 {
-    min-height: 3295px;
-  }
-
   .u-section-1 .u-image-1 {
     width: 340px;
     height: 113px;
@@ -224,5 +260,13 @@
   .u-section-1 .u-text-7 {
     margin-top: 64px;
     margin-left: auto;
+  }
+
+  .u-section-1 .u-custom-html-1 {
+    width: 340px;
+  }
+
+  .u-section-1 .u-custom-html-3 {
+    margin: 138px 35px 12px -34px;
   }
 }
