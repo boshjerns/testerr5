@@ -33,6 +33,10 @@
 }
 
 @media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 3492px;
+  }
+
   .u-section-1 .u-image-1 {
     height: 131px;
     margin-top: 37px;
