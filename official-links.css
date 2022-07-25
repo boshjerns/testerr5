@@ -8,6 +8,7 @@
 
 .u-section-1 .u-text-1 {
   background-image: none;
+  font-size: 1.125rem;
   margin: 162px 292px 60px 0;
 }
 
@@ -59,7 +60,6 @@
 @media (max-width: 1199px) {
   .u-section-1 .u-text-1 {
     margin-right: 92px;
-    font-size: 1.125rem;
   }
 }
 
