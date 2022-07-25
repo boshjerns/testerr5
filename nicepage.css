@@ -37018,21 +37018,36 @@ a.u-link.u-text-hover-grey-90:hover {
     margin-top: -93px;
   }
 }
-
-
-@media (max-width: 575px) {
+@media (max-width: 991px) {
   .u-header .u-sheet-1 {
     min-height: 170px;
   }
 
+  .u-header .u-menu-1 {
+    width: auto;
+    margin-top: -97px;
+    margin-right: 123px;
+    margin-bottom: 42px;
+  }
+}
+@media (max-width: 767px) {
+  .u-header .u-image-1 {
+    margin-top: 21px;
+    margin-left: 70px;
+  }
+
+  .u-header .u-menu-1 {
+    margin-right: 102px;
+    margin-bottom: 52px;
+  }
+}
+@media (max-width: 575px) {
   .u-header .u-image-1 {
     margin-top: 36px;
     margin-left: 19px;
   }
 
   .u-header .u-menu-1 {
-    width: auto;
-    margin-top: -97px;
     margin-right: 36px;
   }
 }
